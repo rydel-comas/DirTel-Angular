@@ -13,7 +13,7 @@ Un directorio telefonico desarrollado con Angular 1.6
 
 ### Asi se ve mi proyecto 
 
-![](../app/examples/signin/ejemplo.png)
+![](app/examples/signin/ejemplo.png)
 
 
 ##Que lo disfruten!!!
